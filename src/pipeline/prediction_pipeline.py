@@ -70,6 +70,7 @@ class CustomeClass:
             }
             
             data = pd.DataFrame(custom_input)
+            return data 
         
         except Exception as e:
             raise CustmeException(e,sys)
