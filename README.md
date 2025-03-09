@@ -18,7 +18,7 @@ This project is a **classification problem** that predicts whether an individual
 
 ---
 
-![Model Training Accuracy](src/material/app ui.png)
+![application overview](https://github.com/Ajinkya-19/modular-coding--ml-project/blob/main/src/material/app%20ui.png)
 
 
 ## 🚀 Tech Stack
@@ -93,7 +93,7 @@ The model is trained on the **Adult Income Census dataset**, which contains **14
 📌 **Target Variable:** `salary` (`<=50K` or `>50K`)
 
 ---
-![Model Training Accuracy](images/model_accuracy.png)
+![cicd pipeline application](https://github.com/Ajinkya-19/modular-coding--ml-project/blob/main/src/material/cicd.png)
 
 
 ## 🤖 Model Training & Performance
@@ -115,7 +115,7 @@ Three models were trained:
 ✅ **CI/CD Integration** – Automated build, test, and deployment using **GitHub Actions**.  
 ✅ **Containerized Deployment** – Runs in an isolated **Docker container** and deployed on **Render Cloud**.  
 
-![Model Training Accuracy](images/model_accuracy.png)
+![dockerhub view](https://github.com/Ajinkya-19/modular-coding--ml-project/blob/main/src/material/dockerhub.png)
 
 ---
 
