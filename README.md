@@ -18,7 +18,7 @@ This project is a **classification problem** that predicts whether an individual
 
 ---
 
-![Model Training Accuracy](images/model_accuracy.png)
+![Model Training Accuracy](src/material/app ui.png)
 
 
 ## 🚀 Tech Stack
